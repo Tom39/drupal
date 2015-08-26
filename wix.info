@@ -1,0 +1,10 @@
+name = Web Index
+description = Auto Create HyperLink
+package = "WIX"
+core = 7.x
+files[] = wix.module
+
+;Information added by drupal.org packaging script on 2015-08-18
+version = "7.38"
+project = "drupal"
+datestamp = "1434567286"
